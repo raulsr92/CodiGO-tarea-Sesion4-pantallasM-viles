@@ -28,4 +28,26 @@ header{
 
 .header__menu{
     background-color: #D9D9D9;
+    width: 51px;
+    height: 28px;
+    text-align: center;
+
+}
+
+.header__logo > p{
+    font-size: 20px;
+}
+
+.header__navbar > ul {
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+    column-gap: 10px;
+}
+
+.header__navbar > ul li{
+    background-color: #D9D9D9 ;
+    width: 51px;
+    height: 28px;
+    text-align: center;
 }
