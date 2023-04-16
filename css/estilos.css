@@ -129,3 +129,22 @@ header{
 
 }
 
+/* Estilos del main - sección 3*/
+
+.main--inicio__end{
+    width: 100%;
+    min-width: 393px;
+    height: 413px;
+    border: 1px solid black;
+    padding: 21px 18px 15px 18px;
+    display: grid;
+    grid-template-rows: repeat(3, 114px);
+    row-gap: 16px;
+}
+
+.main--inicio__end img{
+    background-color: #D9D9D9 ;
+
+}
+
+
