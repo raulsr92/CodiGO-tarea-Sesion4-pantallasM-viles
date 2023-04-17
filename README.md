@@ -6,7 +6,7 @@ Mira la demo de cada pantalla:
 
 📌Pantalla 2- Login: [Demo](https://raulsr92.github.io/CodiGO-tarea-Sesion4-pantallasM-viles/login.html)
 
-📌Pantalla 3- Registro: [Demo](https://platzi.com/cursos/practico-css/)
+📌Pantalla 3- Registro: [Demo](https://raulsr92.github.io/CodiGO-tarea-Sesion4-pantallasM-viles/registro.html)
 
 📌Pantalla 4- Reserva: [Demo](https://platzi.com/cursos/practico-css/)
 
