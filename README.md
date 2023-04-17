@@ -2,9 +2,9 @@
 
 Mira la demo de cada pantalla:
 
-📌Pantalla 1- Inicio: [Demo](https://platzi.com/cursos/practico-css/)
+📌Pantalla 1- Inicio: [Demo](https://raulsr92.github.io/CodiGO-tarea-Sesion4-pantallasM-viles/inicio.html)
 
-📌Pantalla 2- Login: [Demo](https://platzi.com/cursos/practico-css/)
+📌Pantalla 2- Login: [Demo](https://raulsr92.github.io/CodiGO-tarea-Sesion4-pantallasM-viles/login.html)
 
 📌Pantalla 3- Registro: [Demo](https://platzi.com/cursos/practico-css/)
 
