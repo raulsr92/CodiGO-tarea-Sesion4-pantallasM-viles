@@ -32,21 +32,24 @@
             </div>
             <div> 
                 T2
+
             </div>
             <div> 
                 T3
+
             </div>
             <div> 
                 T4
+
             </div>
         </section>
 
-        <form action="reserva--form">
-            <label for="date"> Fecha </label>
-            <input type="date" id="date" name="date" required>
+        <form action="" class="reserva--form">
+            <label for="date" class="item1"> Fecha </label>
+            <input class="item2" type="date" id="date" name="date" required>
 
-            <label for="food"> Comida </label>
-            <select name="food" id="food" >
+            <label class="item3" for="food"> Comida </label>
+            <select class="item4" name="food" id="food" >
                 <option value="" selected>--Elija una opción--</option>
                 <option value="opcion1">Entrada 1 / Fondo 1 / Postre 1</option>
                 <option value="opcion2">Entrada 2 / Fondo 2 / Postre 2</option>
@@ -54,13 +57,11 @@
                 <option value="opcion4">Entrada 4 / Fondo 4 / Postre 4</option>
                 <option value="opcion4">Entrada 5 / Fondo 5 / Postre 5</option>
             </select>  
+            <label class="item5" for="cantidad"> Cantidad </label>
+            <input class="item6" type="number" id="cantidad" name="cantidad" required>
 
-            <label for="cantidad"> Cantidad </label>
-            <input type="number" id="cantidad" name="cantidad" required>
-
-            <a href="">Pagar</a>
+            <a class="item7" href="">Pagar</a>
         </form>
-
     </main>
 </body>
 </html>
