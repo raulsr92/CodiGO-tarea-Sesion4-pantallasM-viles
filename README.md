@@ -12,4 +12,4 @@ Mira la demo de cada pantalla:
 
 📌Pantalla 5- Pago: [Demo](https://raulsr92.github.io/CodiGO-tarea-Sesion4-pantallasM-viles/pagos.html)
 
-📌Pantalla 6- Resumen: [Demo](https://platzi.com/cursos/practico-css/)
+📌Pantalla 6- Resumen: [Demo](https://raulsr92.github.io/CodiGO-tarea-Sesion4-pantallasM-viles/resumen.html)
