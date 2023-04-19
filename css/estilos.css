@@ -32,6 +32,11 @@ header{
     padding: 0 12px 0px 12px;
 }
 
+.header__menu > a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
 .header__menu > p{
     font-size: 20px;
 }
@@ -348,6 +353,8 @@ header{
     font-style: italic;
     font-weight: 700;
 }
+
+
 .reserva--form{
     margin-top: 21px;
     display: grid;
@@ -389,9 +396,14 @@ header{
     font-size: 25px;
     justify-self: center;
     text-align: center;
-    padding-top: 6px;
     border-radius: 10px;
+    border: 0;
 }
+
+.different{
+    padding-top: 6px;
+}
+
 .item7:hover{
     background-color: #D7BDE2  ;
 }
