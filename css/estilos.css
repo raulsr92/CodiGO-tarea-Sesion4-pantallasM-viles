@@ -485,3 +485,108 @@ header{
     line-height: 30.26px;
     margin-bottom: 242px; 
 }
+
+/* PANTALLA 4: RESERVA (mejorada)*/
+.main--reserva2{
+    width: 100%;
+    min-width: 393px;
+    height: auto;
+    padding: 87px 9px 17px 9px;
+}
+
+.reserva2--form{
+    display: flex;
+    flex-direction: column;
+}
+
+.reserva2--form__tables{
+    margin-bottom: 21px;
+}
+
+.reserva2--form__tables h3{
+    font-size: 30px;
+    font-style: italic;
+    line-height: 36.31px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 39px;
+}
+.tables--distribution{
+    height: 330px;
+    display: grid;
+    grid-template-columns: repeat(25, 15px);
+    grid-template-rows: repeat(22, 15px);
+    grid-template-areas: 
+    ". . . . . . . . . . . . . . . . . . . . . . . . . "
+    ". . S1 S1 S1 S1 S1 S1 S1 S1 . . . . S2 S2 S2 S2 S2 S2 S2 S2 . . ."
+    ". . S1 S1 S1 S1 S1 S1 S1 S1 . . . . S2 S2 S2 S2 S2 S2 S2 S2 . . ."
+    ". . S1 S1 S1 S1 S1 S1 S1 S1 . . . . S2 S2 S2 S2 S2 S2 S2 S2 . . ."
+    ". . S1 S1 S1 S1 S1 S1 S1 S1 . . . . S2 S2 S2 S2 S2 S2 S2 S2 . . ."
+    ". . S1 S1 S1 S1 S1 S1 S1 S1 R1 . . . S2 S2 S2 S2 S2 S2 S2 S2 R2 . ."
+    ". . S1 S1 S1 S1 S1 S1 S1 S1 . . . . S2 S2 S2 S2 S2 S2 S2 S2 . . ."
+    ". . S1 S1 S1 S1 S1 S1 S1 S1 . . . . S2 S2 S2 S2 S2 S2 S2 S2 . . ."
+    ". . S1 S1 S1 S1 S1 S1 S1 S1 . . . . S2 S2 S2 S2 S2 S2 S2 S2 . . ."
+    ". . . . . . . . . . . . . . . . . . . . . . . . . "
+    ". . . . . . . . . . . . . . . . . . . . . . . . . "
+    ". . . . . . . . . . . . . . . . . . . . . . . . . "
+    ". . . . . . . . . . . . . . . . . . . . . . . . . "
+    ". . S3 S3 S3 S3 S3 S3 S3 S3 . . . . S4 S4 S4 S4 S4 S4 S4 S4 . . ."
+    ". . S3 S3 S3 S3 S3 S3 S3 S3 . . . . S4 S4 S4 S4 S4 S4 S4 S4 . . ."
+    ". . S3 S3 S3 S3 S3 S3 S3 S3 . . . . S4 S4 S4 S4 S4 S4 S4 S4 . . ."
+    ". . S3 S3 S3 S3 S3 S3 S3 S3 . . . . S4 S4 S4 S4 S4 S4 S4 S4 . . ."
+    ". . S3 S3 S3 S3 S3 S3 S3 S3 R3 . . . S4 S4 S4 S4 S4 S4 S4 S4 R4 . ."
+    ". . S3 S3 S3 S3 S3 S3 S3 S3 . . . . S4 S4 S4 S4 S4 S4 S4 S4 . . ."
+    ". . S3 S3 S3 S3 S3 S3 S3 S3 . . . . S4 S4 S4 S4 S4 S4 S4 S4 . . ."
+    ". . S3 S3 S3 S3 S3 S3 S3 S3 . . . . S4 S4 S4 S4 S4 S4 S4 S4 . . ."
+    ". . . . . . . . . . . . . . . . . . . . . . . . . "
+    ;
+    background-color: #F5EEF8;
+}
+
+.table1{
+    grid-area: S1;
+}
+.table2{
+    grid-area: R1;
+}
+.table3{
+    grid-area: S2;
+}
+.table4{
+    grid-area: R2;
+}
+.table5{
+    grid-area: S3;
+}
+.table6{
+    grid-area: R3;
+}
+.table7{
+    grid-area: S4;
+}
+.table8{
+    grid-area: R4;
+}
+
+.tables--distribution label{
+    border-radius: 50%;
+    background-color: #1ABC9C  ;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    line-height: 36.31px;
+    font-weight: 700;
+    color: white;
+    padding-top: 40px;
+}
+.tables--distribution input:checked{
+    border: 6px solid black;
+}
+
+section .specialone{
+    margin-bottom: 30px;
+}
+
+section .specialtwo{
+    margin-bottom: 55px;
+}
