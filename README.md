@@ -6,9 +6,9 @@ Mira la demo de cada pantalla:
 
 📌Pantalla 2- Login: [Demo](https://raulsr92.github.io/CodiGO-tarea-Sesion4-pantallasM-viles/login.html)
 
-📌Pantalla 3- Registro(mejorado): [Demo](https://raulsr92.github.io/CodiGO-tarea-Sesion4-pantallasM-viles/registro-mejorado.html)
+📌Pantalla 3- Registro: [Demo](https://raulsr92.github.io/CodiGO-tarea-Sesion4-pantallasM-viles/registro.html)
 
-📌Pantalla 4- Reserva: [Demo](https://raulsr92.github.io/CodiGO-tarea-Sesion4-pantallasM-viles/reserva.html)
+📌Pantalla 4- Reserva(mejorado): [Demo](https://raulsr92.github.io/CodiGO-tarea-Sesion4-pantallasM-viles/reserva-mejorado.html)
 
 📌Pantalla 5- Pago: [Demo](https://raulsr92.github.io/CodiGO-tarea-Sesion4-pantallasM-viles/pagos.html)
 
